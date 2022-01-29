@@ -1,0 +1,26 @@
+.main{
+    background: url("https://scontent.fbir2-1.fna.fbcdn.net/v/t1.6435-9/51450679_807987776211883_1773843320271798272_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8631f5&_nc_ohc=WZlVplucOj4AX_L-bd-&_nc_ht=scontent.fbir2-1.fna&oh=00_AT80vyvDyJTMOqkYJ_w3q_FtYACWT65MY4wrGxFKYgI5bw&oe=61F6FBC8");
+    background-color: rgb(60, 61, 60);
+    background-size: cover; 
+    background-blend-mode: overlay;
+    width: 100vw;
+    height: 100vh;
+}
+h1{
+    color: green;
+    margin-left: 5%;
+}
+.getL{
+    margin-left: 85%;
+    
+}
+.mBtn{
+    text-shadow: black 1px 1px 1px;
+    background-color: #047A3C;
+    border-radius: 50px;
+    color: white;
+    border: none;
+    padding: 5px 20px;
+   
+    
+}
